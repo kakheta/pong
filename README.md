@@ -1,1 +1,1 @@
-# pong
+# pong game with turtle module
